@@ -150,10 +150,10 @@ h1 span, h4 {margin: 1px;}
 
 @media (max-width:1100px) {
     .blog-box{
-        width: 70px;
+        width: 300px;
     }
 }
-/* @media (max-width:550px) {
+@media (max-width:550px) {
     .blog-box{
         margin: 20px 10px;
         width: 100%;
@@ -162,5 +162,9 @@ h1 span, h4 {margin: 1px;}
         padding: 20px;
     }
 
+    .blog-text {
+        padding-bottom: 10px;
+    }
+
 }
- */
+
