@@ -62,6 +62,10 @@ body {
     
 }
 
+.red {
+    font-family: hevetica;
+    font-size: medium;
+}
 
 .blog-box {
     width: 350px;
