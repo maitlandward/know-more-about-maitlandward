@@ -20,6 +20,7 @@ body {
     font-family: sans-serif;
 }
 
+h1 span, h4 {margin: 1px;}
 
 /* blog */
 #blog {
